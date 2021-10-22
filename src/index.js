@@ -203,7 +203,7 @@ class App extends React.Component {
 				this.setState({documentId: id});
 			}
 			const old = JSON.parse(window.localStorage.getItem(id));
-			if (old === null || old.data !== this.state.content) {
+			if (old === null || old.data !== this.state.content || old.name !== this.state.doucmentName) {
 				window.localStorage.setItem(id, JSON.stringify({
 					name: this.state.doucmentName,
 					data: this.state.content,
