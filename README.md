@@ -20,3 +20,5 @@ There are two ways to share your documents. You can download them as a text file
 click 'copy link' to copy a link containing your document. Copying a link may be unavailable if your document is too big.
 
 See [this site](https://katex.org/docs/supported.html) for available TeX functions.
+
+![Screenshot of the app](screenshot.png)
