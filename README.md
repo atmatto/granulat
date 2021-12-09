@@ -1,4 +1,4 @@
-# [Granulat](https://granulat.matto.ml/)
+# [Granulat](https://granulat.vercel.app/)
 <p align="center">
 	<img src="public/LogoS.png">
 </p>
